@@ -45,7 +45,10 @@ A modern, lightweight **document-aware chatbot** built using **Flutter** (fronte
 cd ai_document_assistant_backend
 pip install -r requirements.txt
 uvicorn app:app --reload
+```
+## ▶️ Run the Flutter App
 ```bash
 cd ai_document_assistant
 flutter pub get
 flutter run
+```
