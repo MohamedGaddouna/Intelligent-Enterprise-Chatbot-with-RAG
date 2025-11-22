@@ -52,3 +52,22 @@ cd ai_document_assistant
 flutter pub get
 flutter run
 ```
+🎯 Project Goals
+
+Build a simple and efficient RAG pipeline
+
+Integrate Flutter + FastAPI in a clean client–server architecture
+
+Use a free local LLM (GPT-2) instead of paid APIs
+
+Provide real-time document-based Q&A
+
+🚀 Future Enhancements
+
+Add vector search (FAISS) for smarter retrieval
+
+Replace GPT-2 with a stronger model (LLaMA-3, Mistral, Qwen)
+
+Add authentication for multiple users
+
+Improve UI with animations and dark/light themes
