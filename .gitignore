@@ -1,0 +1,16 @@
+# Python venv
+venv/
+
+# Flutter/Dart
+build/
+.dart_tool/
+
+# Android
+android/app/build/
+android/.gradle/
+
+# iOS
+ios/Pods/
+
+# VS Code
+.vscode/
